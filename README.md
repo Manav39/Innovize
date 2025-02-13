@@ -36,7 +36,8 @@ Blockchain technology is revolutionizing the music industry by offering artists 
 ---
 
 ### **Flowchart**
-![image](https://github.com/user-attachments/assets/95d0bfd1-18c6-419c-9b60-1167befde3f7)
+![nft_dfd](https://github.com/user-attachments/assets/c254f459-e1c5-42fe-a80e-83e9fe7a9c28)
+
 
 
 ## **Smart Contract Implementation**
