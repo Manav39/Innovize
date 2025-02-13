@@ -35,6 +35,10 @@ Blockchain technology is revolutionizing the music industry by offering artists 
 
 ---
 
+### **Flowchart**
+![image](https://github.com/user-attachments/assets/95d0bfd1-18c6-419c-9b60-1167befde3f7)
+
+
 ## **Smart Contract Implementation**
 The **MusicNFT** smart contract is developed in **Solidity** and deployed on the **Ethereum blockchain**.
 
